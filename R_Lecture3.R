@@ -72,3 +72,4 @@ mydata[complete.cases(mydata$registered) &
 
 # update at the remote
 a <- c(1:3)
+b <- b(1:5)
