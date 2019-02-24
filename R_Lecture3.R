@@ -71,3 +71,4 @@ mydata[complete.cases(mydata$registered) &
          complete.cases(mydata$windspeed), ]
 
 # update at the remote
+a <- c(1:3)
