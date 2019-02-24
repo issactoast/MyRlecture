@@ -71,6 +71,11 @@ mydata[complete.cases(mydata$registered) &
          complete.cases(mydata$windspeed), ]
 
 # update at the remote
+<<<<<<< HEAD
 
 b <- c(1:3)
 c <- a(1:3)
+=======
+a <- c(1:3)
+myvec <- c(1:3)
+>>>>>>> 8f7c2c1294227318fd7675896251cecfdd8dd90a
