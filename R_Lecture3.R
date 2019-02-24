@@ -70,3 +70,4 @@ c(1, 0, 1) * c(0, 1, 1)
 mydata[complete.cases(mydata$registered) & 
          complete.cases(mydata$windspeed), ]
 
+# update at the remote
